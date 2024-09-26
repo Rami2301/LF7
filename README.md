@@ -1,6 +1,6 @@
 
 1. Individual Learning Goal:
-Example: “During the hackathon, I aim to learn how to implement a computer vision-based facial recognition system and integrate it into a smart home security system.”
+During the hackathon, I aim to learn how to implement a computer vision-based facial recognition system and integrate it into a smart home security system.
 
 1.2. DIY Problem Definition – 5WH Method
 What: What is the problem? Security for smart homes, specifically controlling access with facial recognition.
