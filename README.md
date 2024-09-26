@@ -6,21 +6,40 @@ During the hackathon, I aim to learn how to implement a computer vision-based fa
 DIY Problem Definition – 5WH Method
 =====================================
 
-What
+***What***
+
 What is the problem? Security for smart homes, specifically controlling access with facial recognition.
 
-Why
+***Why***
+
 Why is it important? More and more people want to secure their homes, especially against break-ins. Facial recognition can make access control safer and automated.
 
-Who
+***Who***
+
 Who is affected? People who want more security at home, especially homeowners or renters in areas where security is a concern.
 
-Where
+***Where***
+
 Where does the problem occur? In homes, apartments, or offices that need extra security.
 
-When
+***When***
+
 When does the problem occur? Particularly when the home is unoccupied or at night when access needs to be monitored.
 
+***Security Features***
+- Facial Recognition: Automatic recognition of authorized users and blocking of unauthorized access
+- Emergency Alarm: Triggering of an alarm in case of unauthorized access or other security threats
+- Notification: Notification of the homeowner in case of unauthorized access or other security threats
+- Not able to loose a Key or copy fingerprints like on a Keypad
+
+***Comfort Features***
+- Automatic Door Opening: Automatic opening of the door upon recognition of an authorized user
+- Smart Home Integration: Integration with other smart home devices for comprehensive control of the house
+- User-Friendly Interface: Simple and intuitive operation of the system
+- Personalization: Possibility to adapt the system to the individual needs of the user
+
+
+============
 Blog Post
 ============
 
