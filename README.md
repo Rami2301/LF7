@@ -37,26 +37,26 @@ Ideate
 
 
 
-A facial recognition technology that automatically unlocks the door when an authorized user stands in front of it.
-An emergency alarm that is triggered when unauthorized access to the house occurs.
-A notification to the homeowner's smartphone with a picture of the visitor.
-An integration with other smart home devices to offer a comprehensive security solution.
-An option to lock or unlock specific areas of the house as needed.
+- A facial recognition technology that automatically unlocks the door when an authorized user stands in front of it.
+- An emergency alarm that is triggered when unauthorized access to the house occurs.
+- A notification to the homeowner's smartphone with a picture of the visitor.
+- An integration with other smart home devices to offer a comprehensive security solution.
+- An option to lock or unlock specific areas of the house as needed.
 
 ***Reality***
+How realistic is it to make the dream part true?
 
-The facial recognition technology must be highly precise and secure to avoid false alarms.
-The emergency alarm must be loud and attention-grabbing to alert the neighbors.
-The notification to the smartphone must be quick and reliable to inform the homeowner in a timely manner.
-The integration with other smart home devices must be simple and user-friendly.
+- Technical feasibility: 8/10 - Facial recognition technology is already available and can be integrated with smart home devices. However, there may be technical challenges in implementing the system, such as ensuring accurate recognition and avoiding false positives.
+- Cost: 6/10 - The cost of implementing a facial recognition system can be high, especially if it requires specialized hardware and software. However, the cost can be reduced by using existing smart home devices and integrating them with the facial recognition system.
+- User acceptance: 9/10 - Many users are already comfortable with using facial recognition technology, such as Apple's Face ID. However, there may be concerns about privacy and security, which need to be addressed.
+- Regulatory compliance: 7/10 - There may be regulatory requirements that need to be met, such as ensuring that the system complies with data protection laws. However, these requirements can be addressed through careful planning and implementation.
 
 
 ***Critique***
 
-The facial recognition technology is an innovative solution, but it must also be secure and reliable.
-The emergency alarm is important, but it must also be designed to avoid frequent false triggers.
-The notification to the smartphone is a good idea, but it must also be designed to avoid sending unnecessary notifications.
-Idea
+- The facial recognition technology is an innovative solution, but it must also be secure and reliable.
+- The emergency alarm is important, but it must also be designed to avoid frequent false triggers.
+- The notification to the smartphone is a good idea, but it must also be designed to avoid sending unnecessary notifications.
 
 ***
 Concept session: 
