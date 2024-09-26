@@ -33,30 +33,35 @@ In a world where security is becoming increasingly important, our facial recogni
 Ideate
 ==========
 
-Dream
-Ideas for our smart security solution:
+***Dream***
+
+
 
 A facial recognition technology that automatically unlocks the door when an authorized user stands in front of it.
 An emergency alarm that is triggered when unauthorized access to the house occurs.
 A notification to the homeowner's smartphone with a picture of the visitor.
 An integration with other smart home devices to offer a comprehensive security solution.
 An option to lock or unlock specific areas of the house as needed.
-Real
 
-Analysis of the ideas:
+***Reality***
 
 The facial recognition technology must be highly precise and secure to avoid false alarms.
 The emergency alarm must be loud and attention-grabbing to alert the neighbors.
 The notification to the smartphone must be quick and reliable to inform the homeowner in a timely manner.
 The integration with other smart home devices must be simple and user-friendly.
-Critique
-Evaluation of the ideas:
+
+
+***Critique***
 
 The facial recognition technology is an innovative solution, but it must also be secure and reliable.
 The emergency alarm is important, but it must also be designed to avoid frequent false triggers.
 The notification to the smartphone is a good idea, but it must also be designed to avoid sending unnecessary notifications.
 Idea
-Concept session:
+
+***
+Concept session: 
+***
+
 
 We develop a facial recognition technology that automatically unlocks the door when an authorized user stands in front of it.
 We integrate an emergency alarm that is triggered when unauthorized access to the house occurs.
