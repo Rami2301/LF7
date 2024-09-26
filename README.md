@@ -1,7 +1,12 @@
 Individual Learning Goal
 ==========================
 
-During the hackathon, I aim to learn how to implement a computer vision-based facial recognition system and integrate it into a smart home security system.
+During the hackathon, I aim to develop the following competencies in smart home security and facial recognition:
+
+- Technical: Computer vision and machine learning algorithms for facial recognition
+- Problem-Solving: Analyzing and solving complex security problems
+- Collaboration: Effective teamwork for system design and implementation
+- Innovation: Creative solutions for secure and user-friendly smart homes
 
 DIY Problem Definition – 5WH Method
 =====================================
@@ -30,7 +35,7 @@ When does the problem occur? Particularly when the home is unoccupied or at nigh
 - Facial Recognition: Automatic recognition of authorized users and blocking of unauthorized access
 - Emergency Alarm: Triggering of an alarm in case of unauthorized access or other security threats
 - Notification: Notification of the homeowner in case of unauthorized access or other security threats
-- Not able to loose a Key or copy fingerprints like on a Keypad
+- secure: Not able to loose a Key or copy fingerprints like on a Keypad
 
 ***Comfort Features***
 - Automatic Door Opening: Automatic opening of the door upon recognition of an authorized user
@@ -39,7 +44,6 @@ When does the problem occur? Particularly when the home is unoccupied or at nigh
 - Personalization: Possibility to adapt the system to the individual needs of the user
 
 
-============
 Blog Post
 ============
 
