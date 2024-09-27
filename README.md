@@ -104,40 +104,6 @@ We offer an option to lock or unlock specific areas of the house as needed.
 | **U – Users** | - **Primary Users**: Homeowners and regular residents who frequently use the system. <br> - **Secondary Users**: Guests, delivery personnel, and service providers who may use temporary access or require approval from the homeowner. <br> - **Extreme Users**: Users who have heightened security concerns (e.g., high-profile individuals or frequent travelers). |
 
 
-
-+-------------------------------------+
-| Person approaches the door          |
-+-------------------------------------+
-            |
-            v
-+-------------------------------------+
-| Camera captures face                |
-+-------------------------------------+
-            |
-            v
-+-------------------------------------+
-| Compare face with stored database   |
-+-------------------------------------+
-            |
-      +-----+-----+
-      |           |
-      v           v
-+------------+   +------------------+
-| Face Match |   | No Match Found   |
-+------------+   +------------------+
-      |                  |
-      v                  v
-+------------+   +--------------------+
-| Unlock Door|   | Send alert to owner|
-+------------+   +--------------------+
-                    |
-                    v
-         +--------------------+
-         | Owner grants/denies |
-         | remote access       |
-         +--------------------+
-
-
          +-------------------------------------------------+
          |                    System                      |
          +-------------------------------------------------+
@@ -150,4 +116,3 @@ We offer an option to lock or unlock specific areas of the house as needed.
     |                          |                       |
 Grant access remotely     Automatic entry          Trigger alarm
  via app or alert        via facial recognition   & send alert to owner
-
