@@ -90,3 +90,16 @@ We develop a facial recognition technology that automatically unlocks the door w
 We integrate an emergency alarm that is triggered when unauthorized access to the house occurs.
 We develop a notification to the homeowner's smartphone with a picture of the visitor.
 We offer an option to lock or unlock specific areas of the house as needed.
+
+
+
+### AEIOU Analysis
+
+| **Category**    | **Description** |
+|-----------------|-----------------|
+| **A – Activities** | - Homeowners approach the door and interact with the smart security system for facial recognition. <br> - Users manage the system remotely via a smartphone app. <br> - Guests, such as family or delivery personnel, attempt entry, either triggering authorized access or being flagged as unauthorized. |
+| **E – Environment** | - The system is placed at the main entrance of the home (front door, gate). <br> - Includes hardware (camera, sensors, Raspberry Pi) integrated into the environment. <br> - The environment’s lighting and outdoor conditions (weather, day/night) can affect the accuracy of facial recognition. |
+| **I – Interactions** | - **Homeowner Interaction**: Regular interaction through facial recognition for seamless, hands-free entry. <br> - **Remote Monitoring**: Homeowners receive notifications and can manually grant access via their smartphones. <br> - **Unauthorized Attempt**: Triggers alarms or alerts, prompting the user to respond via the app. <br> - **Visitors**: Limited or temporary access can be granted remotely by the homeowner for guests or deliveries. |
+| **O – Objects** | - **Camera**: Used to capture and identify faces. <br> - **Raspberry Pi**: Processes the facial recognition algorithm. <br> - **Smartphone**: Acts as the control hub for notifications, remote access, and system management. <br> - **Smart Lock**: Connected to the system to automatically unlock doors for recognized users. |
+| **U – Users** | - **Primary Users**: Homeowners and regular residents who frequently use the system. <br> - **Secondary Users**: Guests, delivery personnel, and service providers who may use temporary access or require approval from the homeowner. <br> - **Extreme Users**: Users who have heightened security concerns (e.g., high-profile individuals or frequent travelers). |
+
