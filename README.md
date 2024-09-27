@@ -103,7 +103,6 @@ We offer an option to lock or unlock specific areas of the house as needed.
 | **O – Objects** | - **Camera**: Used to capture and identify faces. <br> - **Raspberry Pi**: Processes the facial recognition algorithm. <br> - **Smartphone**: Acts as the control hub for notifications, remote access, and system management. <br> - **Smart Lock**: Connected to the system to automatically unlock doors for recognized users. |
 | **U – Users** | - **Primary Users**: Homeowners and regular residents who frequently use the system. <br> - **Secondary Users**: Guests, delivery personnel, and service providers who may use temporary access or require approval from the homeowner. <br> - **Extreme Users**: Users who have heightened security concerns (e.g., high-profile individuals or frequent travelers). |
 
-
          +-------------------------------------------------+
          |                    System                      |
          +-------------------------------------------------+
