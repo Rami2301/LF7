@@ -81,16 +81,6 @@ How realistic is it to make the dream part true?
 - The emergency alarm is important, but it must also be designed to avoid frequent false triggers.
 - The notification to the smartphone is a good idea, but it must also be designed to avoid sending unnecessary notifications.
 
-***
-Concept session: 
-***
-
-
-We develop a facial recognition technology that automatically unlocks the door when an authorized user stands in front of it.
-We integrate an emergency alarm that is triggered when unauthorized access to the house occurs.
-We develop a notification to the homeowner's smartphone with a picture of the visitor.
-We offer an option to lock or unlock specific areas of the house as needed.
-
 
 
 ### AEIOU Analysis
@@ -103,37 +93,19 @@ We offer an option to lock or unlock specific areas of the house as needed.
 | **O – Objects** | - **Camera**: Used to capture and identify faces. <br> - **Raspberry Pi**: Processes the facial recognition algorithm. <br> - **Smartphone**: Acts as the control hub for notifications, remote access, and system management. <br> - **Smart Lock**: Connected to the system to automatically unlock doors for recognized users. |
 | **U – Users** | - **Primary Users**: Homeowners and regular residents who frequently use the system. <br> - **Secondary Users**: Guests, delivery personnel, and service providers who may use temporary access or require approval from the homeowner. <br> - **Extreme Users**: Users who have heightened security concerns (e.g., high-profile individuals or frequent travelers). |
 
+### Problem Tree
+
+
+
+
 ### Activity Diagram
 
-```plaintext
-+-------------------------------------+
-| Person approaches the door          |
-+-------------------------------------+
-            |
-            v
-+-------------------------------------+
-| Camera captures face                |
-+-------------------------------------+
-            |
-            v
-+-------------------------------------+
-| Compare face with stored database   |
-+-------------------------------------+
-            |
-      +-----+-----+
-      |           |
-      v           v
-+------------+   +------------------+
-| Face Match |   | No Match Found   |
-+------------+   +------------------+
-      |                  |
-      v                  v
-+------------+   +--------------------+
-| Unlock Door|   | Send alert to owner|
-+------------+   +--------------------+
-                    |
-                    v
-         +--------------------+
-         | Owner grants/denies |
-         | remote access       |
-         +--------------------+
+![diagram](https://github.com/user-attachments/assets/aed2b332-c566-49b8-8cf7-63f1220f7107)
+
+
+### Problem Statement: Smart Home Security Using Facial Recognition
+Homeowners and renters who prioritize safety often face the challenge of relying on traditional security systems that are prone to false alarms and unauthorized access. These systems often lack the ability to provide real-time, intelligent monitoring and don’t offer flexible control over who can enter the home.
+
+This problem becomes more significant in households where multiple users (such as family members, visitors, or service providers) need secure access. Current solutions fail to address the need for both reliability and convenience.
+
+To bridge this gap, we aim to develop a smart home security system that uses facial recognition to provide reliable, real-time access control. Our solution will reduce the risk of unauthorized entry, eliminate many false alarms, and offer users the ability to monitor and manage their home’s security remotely.
