@@ -115,3 +115,7 @@ To bridge this gap, we aim to develop a smart home security system that uses fac
 
 ![Empathy Map fertig-1](https://github.com/user-attachments/assets/3ec85879-011f-4a4a-8375-95d9a2e806bd)
 
+
+### Canvas Business Model 
+
+![Canva Modell drawio](https://github.com/user-attachments/assets/84b0a2ac-e4f3-48c5-9d5c-479d2ddb0048)
