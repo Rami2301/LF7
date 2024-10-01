@@ -109,3 +109,8 @@ Homeowners and renters who prioritize safety often face the challenge of relying
 This problem becomes more significant in households where multiple users (such as family members, visitors, or service providers) need secure access. Current solutions fail to address the need for both reliability and convenience.
 
 To bridge this gap, we aim to develop a smart home security system that uses facial recognition to provide reliable, real-time access control. Our solution will reduce the risk of unauthorized entry, eliminate many false alarms, and offer users the ability to monitor and manage their home’s security remotely.
+
+
+### Empathy Map
+[Empathy Map fertig.pdf](https://github.com/user-attachments/files/17201790/Empathy.Map.fertig.pdf)
+
