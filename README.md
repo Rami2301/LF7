@@ -112,5 +112,6 @@ To bridge this gap, we aim to develop a smart home security system that uses fac
 
 
 ### Empathy Map
-[Empathy Map fertig.pdf](https://github.com/user-attachments/files/17201790/Empathy.Map.fertig.pdf)
+
+![Empathy Map fertig-1](https://github.com/user-attachments/assets/3ec85879-011f-4a4a-8375-95d9a2e806bd)
 
