@@ -116,3 +116,7 @@ To bridge this gap, we aim to develop a smart home security system that uses fac
 ### Canvas Business Model 
 
 ![Canva Modell drawio](https://github.com/user-attachments/assets/84b0a2ac-e4f3-48c5-9d5c-479d2ddb0048)
+
+
+### How does it work
+Our system works by integrating a smart door lock that can recognize Bluetooth signals. On the Raspberry Pi, we use fswebcam and OpenCV to enable facial recognition. A camera is connected to the Pi and installed above the entrance door. The code is set up in such a way that there is a folder where known faces are stored. You can manually add pictures to this folder or create images through a command. For this, we need a button that can connect to the Raspberry Pi. This button is used to create new images for people who should be authorized. When the button is pressed, 15 pictures of the person in front of the camera are taken, and that person is then added to the list of authorized individuals. If the button is not pressed, nothing happens. If someone steps in front of the camera, the system checks whether the images match any of the authorized individuals. If a match is found, the door lock opens; if not, the door remains closed.
