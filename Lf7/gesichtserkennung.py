@@ -56,7 +56,7 @@ def erkenne_gesichter(bekannte_gesichter):
             matches = face_recognition.compare_faces(bekannte_gesichter, face_encoding)
 
             if True in matches:
-                tuer_event_event(target_address)  
+                tuer_event(target_address)  
 
     video_capture.release()
     cv2.destroyAllWindows()
