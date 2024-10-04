@@ -7,6 +7,7 @@ import bluetooth
 # Ordner für Gesichter
 bekannte_gesichter = '/home/pi/LF7/data'
 
+# Hier würde die Bluetooth Adresse vom Schloss eingetragen werden
 target_address = "XX:XX:XX:XX:XX:XX" 
 
 # Lade bekannte Gesichter
