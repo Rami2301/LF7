@@ -1,1 +1,0 @@
-In diesen Ordner kommen die Bilder der verifizieren Person. Pro Person am besten 10-15 Bilder ( Auch mit untesrchiedlichen Gesichtszügen und Winkeln). Dadurch kann die KI besser die Gesichter erkennen. Personen die nicht hinzugefügt sind bekommen keine Autorisierung. 
