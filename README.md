@@ -17,7 +17,7 @@ Why is it important? More and more people want to secure their homes, especially
 
 ***Who***
 
-Who is affected? People who want more security at home, especially homeowners or renters in areas where security is a concern.
+Who is affected? People who want more smart homesecurity, especially elderly and disabled people or renters in areas where security is a concern.
 
 ***Where***
 
