@@ -7,7 +7,9 @@ During the hackathon, I aim to develop the following competencies in smart home 
 - Problem-Solving: Analyzing and solving complex security problems
 - Collaboration: Effective teamwork for system design and implementation
 - Innovation: Creative solutions for secure and user-friendly smart homes
-
+Personal Learning Goal
+- Improve your programming skills in Python
+- Technical abilities with the Raspberry Pi
 DIY Problem Definition – 5WH Method
 =====================================
 
