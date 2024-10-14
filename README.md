@@ -31,7 +31,7 @@ When does the problem occur? Particularly when the home is unoccupied or at nigh
 - Facial Recognition: Automatic recognition of authorized users and blocking of unauthorized access
 - Emergency Alarm: Triggering of an alarm in case of unauthorized access or other security threats
 - Notification: Notification of the homeowner in case of unauthorized access or other security threats
-- secure: Not able to loose a Key or copy fingerprints like on a Keypad
+- Secure: Not able to loose a Key
 
 ***Comfort Features***
 - Automatic Door Opening: Automatic opening of the door upon recognition of an authorized user
