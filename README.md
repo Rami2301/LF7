@@ -10,6 +10,7 @@ During the hackathon, I aim to develop the following competencies in smart home 
 Personal Learning Goal
 - Improve your programming skills in Python
 - Technical abilities with the Raspberry Pi
+
 DIY Problem Definition – 5WH Method
 =====================================
 
